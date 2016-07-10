@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a[100],key,i,j,n,temp;
+int a[100],key,i,n;
 clrscr();
 printf("enter the size of array");
 scanf("%d",&n);
